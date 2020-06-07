@@ -44,7 +44,8 @@ Tematem projektu jest lokalnie postawiona strona internetowa, której tematyką 
 ## 6. Schemat podłączenia czujników
 ---
 ![](README_img/conection.png)
-## 7. Screeny z aplikacji oraz bazy danych
+
+## 7. Zrzuty ekranu strony, przedstawiający jej wygląd i układ
 ---
 * Strona główna
 
@@ -69,12 +70,11 @@ Tematem projektu jest lokalnie postawiona strona internetowa, której tematyką 
 
 ![](README_img/database.png)
 
-## 8. Instrukcja korzystania ze strony
----
 
 
 
-## 9. Użyty kod zewnętrzny
+
+## 8. Użyty kod zewnętrzny
 ---
 * [DHT-11](https://github.com/szazo/DHT11_Python)
 * [BootStrap Template](https://github.com/alexis-luna/bootstrap-simple-admin-template)
