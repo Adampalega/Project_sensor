@@ -1,6 +1,6 @@
 # Project sensor
 -----
-## 0. Autorzy
+## 20. Autorzy
 
 Adam Palęga, Łukasz Stasiak
 
