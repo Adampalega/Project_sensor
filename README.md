@@ -4,15 +4,20 @@
 
 Adam Palęga, Łukasz Stasiak
 
-## 2. Spis komponentów 
+## 2. Temat projektu
 ---
-- Raspberry pi 3a+
+
+Tematem projektu jest lokalnie postawiona strona internetowa, której tematyką  są pomiary temperatury, wilgotności itp. przy użyciu minikomputera Raspberry Pi 3a+ i podłączonych do niego czujników, oraz zewnętrznych czujników Airly.
+
+## 3. Spis komponentów 
+---
+- Raspberry Pi 3a+
 - Zasilacz 5V
 - Karta micro sd 32GB
 - Czujnik temperatury i wilgotności dht11
 - Czujnik wilgotności gleby
 - Kable do potrzebne do podłączenia czujników
-## 3. Wykorzystane technologie
+## 4. Wykorzystane technologie
 ---
 
 * [HTML](https://devdocs.io/html/) 
@@ -23,7 +28,7 @@ Adam Palęga, Łukasz Stasiak
 * [MySQL](https://dev.mysql.com/doc/)
 * [Serwer Apache](https://httpd.apache.org/)
 
-## 4. Funkcjonalności
+## 5. Funkcjonalności
 ----
 
 - Automatyczny pomiar temperatury co godzinę zapisywany do bazy danych.
@@ -36,10 +41,10 @@ Adam Palęga, Łukasz Stasiak
 - Możliwość wykonania pomiaru za pomocą przycisku.
 - Dane na temat Raspberry Pi w zakładce User Data.
 
-## 5. Schemat podłączenia czujników
+## 6. Schemat podłączenia czujników
 ---
 ![](README_img/conection.png)
-## 6. Screeny z aplikacji oraz bazy danych
+## 7. Screeny z aplikacji oraz bazy danych
 ---
 * Strona główna
 
@@ -64,11 +69,12 @@ Adam Palęga, Łukasz Stasiak
 
 ![](README_img/database.png)
 
-## 7. Instrukcja korzystania ze strony
+## 8. Instrukcja korzystania ze strony
 ---
 
 
-## 8. Użyty kod zewnętrzny
+
+## 9. Użyty kod zewnętrzny
 ---
 * [DHT-11](https://github.com/szazo/DHT11_Python)
 * [BootStrap Template](https://github.com/alexis-luna/bootstrap-simple-admin-template)
