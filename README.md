@@ -41,26 +41,26 @@ Adam Palęga, Łukasz Stasiak
 ![](README_img/conection.png)
 ## 6. Screeny z aplikacji oraz bazy danych
 ---
-* strona główna
+* Strona główna
 
 ![](README_img/dashboard2.png)
 
-* statystyki
+* Statystyki
 
 ![](README_img/statistics.png)
 
-* wykresy
+* Wykresy
 
 ![](README_img/charts.png)
 
-* informacje o systemie
+* Informacje o systemie
 ![](README_img/data.png)
 
-* werjsa mobilna  
+* Werjsa mobilna  
 
 ![](README_img/mobile.png)
 
-* baza danych 
+* Baza danych 
 
 ![](README_img/database.png)
 
