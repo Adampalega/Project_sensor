@@ -1,10 +1,10 @@
 # Project sensor
 -----
-## 20. Autorzy
+## 1. Autorzy
 
 Adam Palęga, Łukasz Stasiak
 
-## 1. Spis komponentów 
+## 2. Spis komponentów 
 ---
 - Raspberry pi 3a+
 - Zasilacz 5V
@@ -12,7 +12,7 @@ Adam Palęga, Łukasz Stasiak
 - Czujnik temperatury i wilgotności dht11
 - Czujnik wilgotności gleby
 - Kable do potrzebne do podłączenia czujników
-## 2. Wykorzystane technologie
+## 3. Wykorzystane technologie
 ---
 
 * [HTML](https://devdocs.io/html/) 
@@ -23,7 +23,7 @@ Adam Palęga, Łukasz Stasiak
 * [MySQL](https://dev.mysql.com/doc/)
 * [Serwer Apache](https://httpd.apache.org/)
 
-## 3. Funkcjonalności
+## 4. Funkcjonalności
 ----
 
 - Automatyczny pomiar temperatury co godzinę zapisywany do bazy danych.
@@ -36,10 +36,10 @@ Adam Palęga, Łukasz Stasiak
 - Możliwość wykonania pomiaru za pomocą przycisku.
 - Dane na temat Raspberry Pi w zakładce User Data.
 
-## 4. Schemat podłączenia czujników
+## 5. Schemat podłączenia czujników
 ---
 ![](README_img/conection.png)
-## 5. Screeny z aplikacji oraz bazy danych
+## 6. Screeny z aplikacji oraz bazy danych
 ---
 * strona główna
 ![](README_img/dashboard2.png)
@@ -53,7 +53,7 @@ Adam Palęga, Łukasz Stasiak
 ![](README_img/mobile.png)
 * baza danych  
 ![](README_img/database.png)
-## 6. Użyty kod zewnętrzny
+## 7. Użyty kod zewnętrzny
 ---
 * [DHT-11](https://github.com/szazo/DHT11_Python)
 * [BootStrap Template](https://github.com/alexis-luna/bootstrap-simple-admin-template)
