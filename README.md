@@ -49,9 +49,9 @@ Adam Palęga, Łukasz Stasiak
 ![](README_img/charts.png)
 * informacje o systemie
 ![](README_img/data.png)
-* werjsa mobilna
+* werjsa mobilna  
 ![](README_img/mobile.png)
-* baza danych
+* baza danych  
 ![](README_img/database.png)
 ## 6. Użyty kod zewnętrzny
 ---
