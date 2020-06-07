@@ -41,19 +41,34 @@ Adam Palęga, Łukasz Stasiak
 ![](README_img/conection.png)
 ## 6. Screeny z aplikacji oraz bazy danych
 ---
-* strona główna
+* Strona główna
+
 ![](README_img/dashboard2.png)
-* statystyki
+
+* Statystyki
+
 ![](README_img/statistics.png)
-* wykresy
+
+* Wykresy
+
 ![](README_img/charts.png)
-* informacje o systemie
+
+* Informacje o systemie
 ![](README_img/data.png)
-* werjsa mobilna  
+
+* Werjsa mobilna  
+
 ![](README_img/mobile.png)
-* baza danych  
+
+* Baza danych 
+
 ![](README_img/database.png)
-## 7. Użyty kod zewnętrzny
+
+## 7. Instrukcja korzystania ze strony
+---
+
+
+## 8. Użyty kod zewnętrzny
 ---
 * [DHT-11](https://github.com/szazo/DHT11_Python)
 * [BootStrap Template](https://github.com/alexis-luna/bootstrap-simple-admin-template)
