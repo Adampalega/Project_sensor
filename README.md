@@ -2,7 +2,7 @@
 -----
 ## 0. Autorzy
 
-#Adam Palęga, Łukasz Stasiak
+Adam Palęga, Łukasz Stasiak
 
 ## 1. Spis komponentów 
 ---
