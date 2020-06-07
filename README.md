@@ -38,7 +38,7 @@ Tematem projektu jest lokalnie postawiona strona internetowa, której tematyką 
 - Historia pomiarów w postaci wykresów.
 - Automatyczne co godzinę pobieranie danych z zewnętrznego api w celu wyświetlania informacji na temat jakości powietrza.
 - Wyświetlanie statystyk z dnia, oraz tygodnia na podstawie pomiarów przechowywanych w bazie danych.
-- Możliwość wykonania pomiaru za pomocą przycisku.
+- Możliwość wykonania pomiaru za pomocą przycisku "Fetch Data".
 - Dane na temat Raspberry Pi w zakładce User Data.
 
 ## 6. Schemat podłączenia czujników
