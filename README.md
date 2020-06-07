@@ -36,7 +36,7 @@
 - Możliwość wykonania pomiaru za pomocą przycisku.
 - Dane na temat Raspberry Pi w zakładce User Data.
 
-## 4. Schemat podłączenia cczujników
+## 4. Schemat podłączenia czujników
 ---
 ![](README_img/conection.png)
 ## 5. Screeny z aplikacji oraz bazy danych
