@@ -42,17 +42,28 @@ Adam Palęga, Łukasz Stasiak
 ## 6. Screeny z aplikacji oraz bazy danych
 ---
 * strona główna
+
 ![](README_img/dashboard2.png)
+
 * statystyki
+
 ![](README_img/statistics.png)
+
 * wykresy
+
 ![](README_img/charts.png)
+
 * informacje o systemie
 ![](README_img/data.png)
+
 * werjsa mobilna  
+
 ![](README_img/mobile.png)
-* baza danych  
+
+* baza danych 
+
 ![](README_img/database.png)
+
 ## 7. Użyty kod zewnętrzny
 ---
 * [DHT-11](https://github.com/szazo/DHT11_Python)
