@@ -15,7 +15,7 @@ Tematem projektu jest lokalnie postawiona strona internetowa, której tematyką 
 - Zasilacz 5V
 - Karta micro sd 32GB
 - Czujnik temperatury i wilgotności dht11
-- Czujnik wilgotności gleby
+- Czujnik wilgotności gleby yl-69 + mh sensor series flying fish
 - Kable do potrzebne do podłączenia czujników
 ## 4. Wykorzystane technologie
 ---
