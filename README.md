@@ -62,7 +62,7 @@ Tematem projektu jest lokalnie postawiona strona internetowa, której tematyką 
 * Informacje o systemie
 ![](README_img/data.png)
 
-* Werjsa mobilna  
+* Wersja mobilna  
 
 ![](README_img/mobile.png)
 
